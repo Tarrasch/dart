@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/golems/dart.png?branch=master)](https://travis-ci.org/golems/dart)
+[![Build Status](https://travis-ci.org/Tarrasch/dart.png)](https://travis-ci.org/Tarrasch/dart)
 
 DART Simulator
 ===============
